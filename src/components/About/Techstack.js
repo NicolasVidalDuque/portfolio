@@ -16,7 +16,7 @@ import {
   SiMysql,
   SiTensorflow,
   SiNeovim,
-  SiVisualbasic
+  SiMicrosoftexcel
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
@@ -28,6 +28,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMysql/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMicrosoftexcel/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <CgCPlusPlus />
