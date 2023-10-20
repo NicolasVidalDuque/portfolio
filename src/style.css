@@ -255,6 +255,7 @@ button:focus {
 
 .home-section {
   position: relative;
+  height: 100vh;
   z-index: -1;
   background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
   background-position: top center;
@@ -549,6 +550,13 @@ button:focus {
   color: white !important;
 }
 
+@media (min-width: 767px) {
+  #about-landing {
+    height: 70vh;
+    align-items: center;
+    margin-bottom: 20vh;
+  }
+}
 .tech-icons {
   font-size: 4.5em !important;
   margin: 15px !important;

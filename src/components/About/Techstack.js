@@ -14,18 +14,15 @@ import {
   SiNextdotjs,
   SiPostgresql,
   SiMysql,
-  SiTensorflow,
   SiNeovim,
-  SiMicrosoftexcel
+  SiMicrosoftexcel,
+  SiPandas
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiTensorflow/>
-      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiMysql/>
       </Col>
