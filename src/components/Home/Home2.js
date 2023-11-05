@@ -25,7 +25,7 @@ function Home2() {
                 <b className="purple"> Python, Javascript and C++ </b>
               <br />
               <br />
-              My field of Interest's are building new
+              My fields of Interes are building new
                 <b className="purple"> Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">

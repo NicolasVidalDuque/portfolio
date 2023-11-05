@@ -46,7 +46,7 @@ function Projects() {
             <ProjectCard
               imgPath={blog}
               title="Melanoma Cancer: CNN Detection"
-              description="Trained a CNN classifier using a labeled Melanoma Data Set with Keras and tensorflow. Implemented Flask as backened. The classifier sucessfully differetiating non-melanoma moles from Melanoma cancer moles. Different models available with a validation accuracy of 90%."
+              description="Trained a CNN classifier using a labeled Melanoma Data Set with Keras and tensorflow. Implemented Flask as backened. The classifier sucessfully differentiated non-melanoma moles from Melanoma cancer moles. Different models available with a max validation accuracy of 90%."
               ghLink="https://github.com/NicolasVidalDuque/melanoma_app"
               demoLink=""
             />
