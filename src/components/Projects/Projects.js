@@ -27,6 +27,15 @@ function Projects() {
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={blog}
+              title="Image Cloud Storage"
+              description="Discover our Image Cloud Storage Web App: Effortlessly create an account, securely upload, store, and download private images. Enjoy intuitive interfaces, robust data security, seamless downloading, powerful data visualization, TensorFlow integration, and collaborative sharing."
+              ghLink="https://github.com/NicolasVidalDuque/image-cloud-nv"
+              demoLink="https://nv-image-cloud.onrender.com/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={blog}
               title="NV - Blog"
               description="A blog where anyone can create an account, publish articles and read others post's. Built with React and Node.js; enabling users to store their post's in MongoDB. Password and user identification via a salted and encrypted connection."
               ghLink="https://github.com/NicolasVidalDuque/blog_app"
