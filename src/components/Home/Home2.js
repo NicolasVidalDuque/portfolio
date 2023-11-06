@@ -26,8 +26,8 @@ function Home2() {
               <br />
               <br />
               My fields of Interes are building new
-                <b className="purple"> Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple"> Web Technologies and Products </b>
+                in areas related to{" "}
                 <b className="purple">
                    Machine Learning and Data Science
                 </b>
@@ -37,7 +37,7 @@ function Home2() {
               with <b className="purple">Node.js</b> and
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Javascript Libraries and Frameworks
                 </b>
               &nbsp; like
                 <b className="purple"> React.js and Next.js</b>
