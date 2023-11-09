@@ -24,7 +24,7 @@ function Projects() {
             <ProjectCard
               imgPath={image_cloud_app_cover}
               title="Image Cloud Storage"
-              description="Discover our Image Cloud Storage Web App: Effortlessly create an account, securely upload, store, and download private images. Enjoy intuitive interfaces, robust data security, seamless downloading, powerful data visualization, TensorFlow integration, and collaborative sharing."
+              description="Discover our Image Cloud Storage Web App: Effortlessly create an account, securely upload, store, and download private images. Enjoy intuitive interfaces, robust data security and seamless downloading."
               ghLink="https://github.com/NicolasVidalDuque/image-cloud-nv"
               demoLink="https://nv-image-cloud.onrender.com/"
             />
