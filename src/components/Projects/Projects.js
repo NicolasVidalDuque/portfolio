@@ -43,7 +43,7 @@ function Projects() {
               imgPath={melanoma_cover}
               title="Melanoma Cancer: CNN Detection"
               description="Trained a CNN classifier using a labeled Melanoma Data Set with Keras and tensorflow. Implemented Flask as backened. The classifier sucessfully differentiated non-melanoma moles from Melanoma cancer moles. Different models available with a max validation accuracy of 90%."
-              ghLink="https://github.com/NicolasVidalDuque/melanoma_app"
+              ghLink="https://github.com/NicolasVidalDuque/melanoma_cnn"
               demoLink=""
             />
           </Col>
