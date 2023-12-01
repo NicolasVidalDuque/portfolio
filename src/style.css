@@ -598,9 +598,12 @@ button:focus {
 .about-activity {
   list-style: none !important;
   text-align: left !important;
-  padding-left: 1px !important;
 }
 
+/* TODO:  Increase paddin in between finger and tex */
+.about-activity ImPointRight{
+  padding-right: 10px;
+}
 @media (max-width: 767px) {
   .about-img {
     padding-top: 0 !important;

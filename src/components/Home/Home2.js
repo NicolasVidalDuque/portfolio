@@ -19,15 +19,15 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm an Industrial Engineer who fell inlove with programming, web development and machine learning
+              I'm an Industrial Engineer who fell in love with programming, web development and machine learning
               <br />
               <br />I am fluent in classics like
-                <b className="purple"> Python, Javascript and C++ </b>
+                <b className="purple"> Python, Javascript, Java and C++ </b>
               <br />
               <br />
-              My fields of Interes are building new
-                <b className="purple"> Web Technologies and Products </b>
-                in areas related to{" "}
+              My fields of interest are building new
+                <b className="purple"> Web Technologies & Products </b>
+                and deploy web applications related to{" "}
                 <b className="purple">
                    Machine Learning and Data Science
                 </b>
@@ -52,9 +52,6 @@ function Home2() {
         <Row>
           <Col md={12} className="home-about-social">
             <h1>FIND ME ON</h1>
-            <p>
-              Feel free to <span className="purple">connect </span>with me
-            </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
@@ -77,6 +74,9 @@ function Home2() {
                 </a>
               </li>
             </ul>
+            <p>
+              Feel free to <span className="purple">connect </span>with me
+            </p>
           </Col>
         </Row>
       </Container>
