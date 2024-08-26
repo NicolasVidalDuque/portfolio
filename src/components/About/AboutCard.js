@@ -8,12 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone, I'm <span className="purple"> Nicolas Vidal Duque </span>
-            from <span className="purple"> Bogotá, Colombia.</span>
+            Hi everyone, I'm <span className="purple"> Nicolas Vidal </span>
+            from <span className="purple"> Cali, Colombia.</span>
             <br /> I'm an Industrial Engineer with a minor in computer science at Pontificia Universidad Javeriana
             <br />
             <br />
-            I am currently employed as an <span className="purple"> IT - Data Analyst </span> at Ericsson            <br />
+            I am currently employed as an <span className="purple"> Software Engineer for LLM Training </span> at Outlier.ai            <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
@@ -22,7 +22,7 @@ function AboutCard() {
               <ImPointRight /> Cooking 
             </li>
             <li className="about-activity">
-              <ImPointRight /> Kung Fu Combat 
+              <ImPointRight /> MMA Combat 
             </li>
             <li className="about-activity">
               <ImPointRight /> Track and Field
