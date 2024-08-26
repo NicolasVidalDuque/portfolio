@@ -26,7 +26,7 @@ function Projects() {
               title="Image Cloud Storage"
               description="Discover our Image Cloud Storage Web App: Effortlessly create an account, securely upload, store, and download private images. Enjoy intuitive interfaces, robust data security and seamless downloading."
               ghLink="https://github.com/NicolasVidalDuque/image-cloud-nv"
-              demoLink="https://nv-image-cloud.onrender.com/"
+              // demoLink="https://nv-image-cloud.onrender.com/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -35,7 +35,7 @@ function Projects() {
               title="NV - Blog"
               description="A blog where anyone can create an account, publish articles and read others post's. Built with React and Node.js; enabling users to store their post's in MongoDB and AWS S3. Password and user identification via a salted and encrypted connection."
               ghLink="https://github.com/NicolasVidalDuque/blog_app"
-              demoLink="https://nv-blog.onrender.com"
+              // demoLink="https://nv-blog.onrender.com"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -44,7 +44,7 @@ function Projects() {
               title="Melanoma Cancer: CNN Detection"
               description="Trained a CNN classifier using a labeled Melanoma Data Set with Keras and tensorflow. Implemented Flask as backened. The classifier sucessfully differentiated non-melanoma moles from Melanoma cancer moles. Different models available with a max validation accuracy of 90%."
               ghLink="https://github.com/NicolasVidalDuque/melanoma_cnn"
-              demoLink=""
+              // demoLink=""
             />
           </Col>
           <Col md={4} className="project-card">
@@ -62,7 +62,7 @@ function Projects() {
               title="Expense Tracker"
               description="A web app that allows you to keep track of your expenses. Made exclusively for students with allowance in order to visually monitor the percentage of your monthly income. Additionally you can enable the sponsor category if someone is paying for the expense."
               ghLink="https://github.com/NicolasVidalDuque/expense-tracker"
-              demoLink="https://expense-tracker-nicolas-vidal.netlify.app/"
+              // demoLink="https://expense-tracker-nicolas-vidal.netlify.app/"
             />
           </Col>
         </Row>
